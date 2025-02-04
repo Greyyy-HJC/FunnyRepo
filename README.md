@@ -1,7 +1,7 @@
 # FunnyRepo
 Collection of interesting GitHub repo, just for fun.
 
-### AI 喷子
+### AI 喷子翻译
 [鲸喷](https://github.com/liseami/DeepRant)
 
 ### 截图生成网页代码
